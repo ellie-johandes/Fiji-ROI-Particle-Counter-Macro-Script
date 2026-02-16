@@ -1,7 +1,7 @@
 # Fiji-ROI-Particle-Counter-Macro-Script
 A Fiji macro script for thresholding and counting particles within defined regions of interest (ROIs). It also measures the area and perimeter of each ROI.  
 
-# Currently only works on one file at a time. If there is a high density of particles, the final count may be lower than 
+#Currently only works on one file at a time. If there is a high density of particles, the final count may be lower than what actually appears. 
 
 To use:
   1) Download macro script
